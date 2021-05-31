@@ -1,3 +1,3 @@
 # TIL
 
-Here is my repository for saving what I learn day by day.
+Saving what I learn day by day.
